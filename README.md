@@ -1,10 +1,7 @@
-- 👋 Hi, I’m rajeshlan
-- 👀 I’m interested in making money ., so i code but haven't made money yet
-- 🌱 I’m currently learning python and quant finance
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me on instagram @ rajesh_kr0
-
-<!---
-rajeshlan/rajeshlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there, I’m Rajesh!
+🚀 Passionate about cracking the code to financial freedom—literally.
+💡 Currently diving deep into Python and the mysterious world of quant finance.
+🎯 On a mission to turn my code into cash (still a work in progress, but getting there!).
+🛠️ Always up for collaborating on cutting-edge projects that push the boundaries of tech and finance.
+✨ Fun fact: When I'm not coding, I'm probably daydreaming about algorithms that could change the game.
+📬 Slide into my DMs on Instagram: @rajesh_kr0.
